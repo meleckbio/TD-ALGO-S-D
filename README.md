@@ -2,7 +2,11 @@
 
 Algorithmics and Data Structures, Session 3 (ENSISA, Université Haute-Alsace).
 
-Everything is in one file: `search_and_sort.c`
+Files:
+
+- `search_and_sort.c`: searching and sorting algorithms (Session 3)
+- `fibonacci.c`: Fibonacci, iterative (dynamic) vs naive recursive
+- `premiers.c`: count the prime numbers up to n, naive vs sieve (needs `-lm` to compile)
 
 ## What is inside
 
